@@ -3,9 +3,10 @@
 Welcome to **Petal and Bloom**, a beautifully crafted website dedicated to the art of floristry and the enchanting world of flowers. This project aims to inspire flower enthusiasts, gardeners, and anyone who appreciates nature’s beauty.
 
 ## 🌟 Key Features
-- **Flower Gallery**: Showcasing a stunning collection of floral arrangements, individual flower species, and seasonal blooms.
-- **Responsive Design**: The layout adapts seamlessly to various devices, ensuring an optimal viewing experience on desktops, tablets, and mobile phones.
-- **User-Friendly Navigation**: Simple and intuitive navigation that allows users to explore various sections easily.
+- **Extensive Flower Selection**: Browse through our diverse collection of fresh flowers, including seasonal blooms and classic favorites.
+- **Custom Arrangements**: Choose from pre-designed arrangements or customize your own bouquet to suit your style and needs.
+- **Responsive Design**: The website is designed to be fully responsive, ensuring a seamless shopping experience on desktops, tablets, and mobile devices.
+- **Easy Navigation**: User-friendly navigation allows customers to effortlessly find products, explore categories, and access helpful information.
 
 ## 🛠️ Technologies Used
 - **HTML**: For structuring the content and layout of the website.
